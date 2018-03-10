@@ -62,6 +62,7 @@ public class BounceBall {
             this.y = rn.nextInt(fream.getHeight());
             this.x2 = rn.nextInt(fream.getWidth());
             this.y2 = rn.nextInt(fream.getHeight());
+            System.out.println("Print something");
 
 
 
